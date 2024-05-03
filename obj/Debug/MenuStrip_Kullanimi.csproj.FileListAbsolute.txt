@@ -1,0 +1,11 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\bin\Debug\MenuStrip_Kullanimi.exe.config
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\bin\Debug\MenuStrip_Kullanimi.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\bin\Debug\MenuStrip_Kullanimi.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.Properties.Resources.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\MenuStrip_Kullanimi\obj\Debug\MenuStrip_Kullanimi.pdb
